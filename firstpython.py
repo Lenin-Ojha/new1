@@ -1,2 +1,2 @@
-#test python code gor git practice
-print("Hello World")
+#test python code gor git practice inside child
+print("now inside the child")
